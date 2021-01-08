@@ -1,2 +1,0 @@
-xyz/portal2d/OptionLibrary/IntegerPromptTest.java
- xyz.portal2d.OptionLibrary.IntegerPromptTest
