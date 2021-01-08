@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="xyz.portal2d.OptionLibrary.IntegerPromptTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-01-08T14:46:13" hostname="desktop" time="0.012">
+  <properties/>
+  <testcase name="IntegerPromptTest" classname="xyz.portal2d.OptionLibrary.IntegerPromptTest" time="0.01"/>
+  <testcase name="LongIntegerPromptTest" classname="xyz.portal2d.OptionLibrary.IntegerPromptTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
